@@ -7,8 +7,8 @@ Steps :-
 2. Power Query Optimization: Cleaned and transformed data using Power Query Editor, ensuring readiness for analysis.
 3. DAX Functionality: Created new columns and insightful measures with DAX functions, enhancing data capabilities.
 4. Dual Dashboards for Comprehensive Insights: Created two distinct dashboards:
-Credit Card Transaction Report: Detailed analysis of transaction volume, types, amounts, and trends.
-Credit Card Customer Report: Insights into customer demographics, spending behavior, credit limits, and targeted insights.
+(a) Credit Card Transaction Report: Detailed analysis of transaction volume, types, amounts, and trends.
+(b) Credit Card Customer Report: Insights into customer demographics, spending behavior, credit limits, and targeted insights.
 5. Visualization Excellence: Enhanced each dashboard with charts, KPIs, and other visuals to effectively communicate the data.
 
 Insights :-
