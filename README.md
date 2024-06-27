@@ -12,9 +12,9 @@ Credit Card Customer Report: Insights into customer demographics, spending behav
 5. Visualization Excellence: Enhanced each dashboard with charts, KPIs, and other visuals to effectively communicate the data.
 
 Insights :-
-• Overall revenue is 57M.
-• Total interest is 8M.
-• Male customers are contributing more in revenue 31M, female 26M.
-• Blue and Silver credit card are contributing to 93% of overall transactions.
-• Texas, New York, and California are the top 3 states, collectively contributing to 68% of the revenue.
-• Individuals in the 40-50 age group are contributing more to revenue 25M.
+1. Overall revenue is 57M.
+2. Total interest is 8M.
+3. Male customers are contributing more in revenue 31M, female 26M.
+4. Blue and Silver credit card are contributing to 93% of overall transactions.
+5. Texas, New York, and California are the top 3 states, collectively contributing to 68% of the revenue.
+6. Individuals in the 40-50 age group are contributing more to revenue 25M.
